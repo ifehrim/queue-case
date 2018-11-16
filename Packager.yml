@@ -1,0 +1,11 @@
+project:
+  name: Queue
+  type: package
+  ver: 1.0.0
+  desic: Queue case of packager
+  license: mit
+  namespace: Frame\Queue
+  mian: Quer
+  auther:
+    name: ifehrim
+    email: ifehrim@gmail.com
